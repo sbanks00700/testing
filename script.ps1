@@ -1,0 +1,1 @@
+Start-Process 'C:\Users\Public\GetYa2.exe'
